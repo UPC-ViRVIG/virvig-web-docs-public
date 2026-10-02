@@ -1,0 +1,827 @@
+[
+  {
+    "id": "echoes-european-cloud-for-heritage-open-science",
+    "title": "ECHOES - European Cloud for Heritage OpEn Science",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "ECHOES aims to create the European Collaborative Cloud for Cultural Heritage (ECCCH) as a shared platform for heritage professionals and researchers to access data, innovative scientific and training resources and advanced digital tools co-developed by the heritage community according to their specific needs. ECHOES will bring together fragmented communities of the Cultural Heritage (CH) field, which consists of various actors from different sectors and disciplines, into a new community around the Digital Commons. Going beyond the strict focus on assets and the mere digitisation of Heritage, ECHOES intends to generate a visionary paradigm shift in the CH field. Adopting a holistic approach, ECHOES will also enable digitising the existing knowledge of Heritage objects, whether tangible or intangible. It will create a digital environment enabling collaborative analysis of CH assets, facts, and phenomena. In this environment, actors – humans or Artificial Intelligence – can develop their interpretations, thereby enriching the knowledge of CH and their surroundings. The digital environment proposed by ECHOES will empower users to interact with, manipulate and enrich Digital Twins, leading to new, jointly developed scientific knowledge. The ECCCH built by ECHOES is anchored in the principles of Open Access and Open Science. It thus promotes inclusion and democratises access to knowledge and digital assets, which are understood as public goods by and for all. This digital environment will allow the creation of a new generation of heritage objects, the Digital Commons, which are semantically rich and collectively produced – we see this as “the heritage of tomorrow”. At the end of the project, ECHOES will deliver a single platform to integrate results of EU and national projects on CH. The ECCCH will be sustainable thanks to its inclusive legal entity, which will be created before the end of ECHOES",
+    "image": "assets/projects/echoes-european-cloud-for-heritage-open-science.jpg",
+    "funding_institution": "EU - HORIZON-CL2-2023-HERITAGE-ECCCH-01",
+    "start_date": "2024-06-01",
+    "end_date": "2029-05-30",
+    "webpage": "https://www.echoes-eccch.eu/",
+    "code": "HORIZON-101157364-ECHOES"
+  },
+  {
+    "id": "uptakers-upgrading-academic-skills-and-innovative-capacities-through-virtually-enclusive-hybrid-studios",
+    "title": "UPTAKERS: Upgrading academic skills and innovative caPacities through virTuAlly Enclusive hybRid Studios",
+    "contacts": [
+      {
+        "name": "Marta Fairén",
+        "email": "mfairen@cs.upc.edu"
+      }
+    ],
+    "description": "The UPTAKERS project aims to improve capacity building of staff and students of consortium partners from Egypt, Tunisia, and Jordan by using immersive technologies like virtual reality (VR), augmented reality (AR), and mixed reality (MR).",
+    "image": "assets/projects/uptakers-upgrading-academic-skills-and-innovative-capacities-through-virtually-enclusive-hybrid-studios.jpg",
+    "funding_institution": "European Commission. Education Audiovisual And Culture Executive Agency (eacea)",
+    "start_date": "2024-11-01",
+    "end_date": "2027-10-31",
+    "webpage": "https://uptakers-project.eu/",
+    "code": "101179167-ERASMUS-EDU-2024-CBHE"
+  },
+  {
+    "id": "h3dvirvic-entornos-3d-de-alta-fidelidad-para-realidad-virtual-y-computacion-visual-geometria-movimiento-interaccion-y-visualizacion-para-salud-arquitectura-y-ciudades",
+    "title": "H3DViRViC: Entornos 3D de alta fidelidad para Realidad Virtual y Computación Visual: geometría, movimiento, interacción y visualización para salud, arquitectura y ciudades",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      },
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      }
+    ],
+    "description": "In the last decade we have witnessed substantial advances in all technologies enabling Virtual Reality (VR) experiences, as well as an increase in the interest of major ICT companies to create new applications, contents and services for VR platforms. Although most VR devices today are targeted towards the entertainment industry, the largest social, technical, scientific and sustainability benefits and potential of VR technologies stem from their applications in other areas such as medicine, industry, architecture, education and cultural heritage. In this project we address different modeling, animation, interaction and visualization problems in Virtual Reality and Visual Computing (VC) with the objective of expanding, improving, facilitating and optimizing VR/VC applications. We target VR applications beyond entertainment, and thus we cover relevant aspects usually missing in mainstream VR applications, such as Immersive Visual Analytics and Collaborative VR. We consider all dimensions around the concept of \"high-fidelity\" that contribute to the usefulness of the applications as well as user performance and user experience in VR setups: the shape of the represented objects (detail, accuracy, completeness), their appearance (accurate color reproduction), their temporal evolution (e.g. changes due to passage of time), their motion (human motion, avatars of VR users and collaborators), as well as perception, interaction and collaboration aspects that are essential in VC and in collaborative VR setups. As a consequence, the project involves multiple fields such as geometric modeling, appearance modeling, motion capture, motion analysis, motion synthesis and visual computing. The advances in the fidelity of the VR environments we target are conditioned by multiple aspects. The fact that we target VR devices puts multiple constraints on the 3D models, user avatars and interaction techniques. Digital 3D models must be adapted to VR to account for the hardware constraints as well as for the specific interaction techniques used in single-user and collaborative VR. Effective collaboration in VR requires appropriate avatars (with specific representations and animation control) and 3D interaction techniques to harmonize the free exploration capabilities offered by virtual environments with the necessary communication, coordination and interaction awareness between collaborators. The fact that we clearly target VR applications beyond entertainment is substantiated by the explicit inclusion of immersive visual analytics (mainly for complex spatio-temporal data) and the focus on user comfort (essential for the acceptance of VR technologies) and user performance, which involves conducting user and perceptual studies to determine the best visualization and interaction options for different applications. We will also prime the use of real data (geometry, appearance and motion captured from the real world) in contrast to the mostly synthetic environments used in mainstream VR applications. Despite our broad view of high-fidelity for VR environments, and the varied disciplines involved, the specific goals of this project are circumscribed by the application areas the groups have strong expertise with: Health (medical visualization, anatomy education), Sports (biomechanics, sport analytics), Architecture/Industry (collaborative VR), and Cultural Heritage (digitalization, reconstruction, appearance modeling, weathering).",
+    "image": "assets/projects/h3dvirvic-entornos-3d-de-alta-fidelidad-para-realidad-virtual-y-computacion-visual-geometria-movimie-f14dead0cc.jpg",
+    "funding_institution": "Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020",
+    "start_date": "2022-09-01",
+    "end_date": "2027-02-28",
+    "webpage": "https://www.virvig.eu/h3dvirvic/index.html",
+    "code": "PID2021-122136OB"
+  },
+  {
+    "id": "xr4ed-extended-reality-for-education",
+    "title": "XR4ED: eXtended Reality for Education",
+    "contacts": [
+      {
+        "name": "Nuria Pelechano",
+        "email": "npelechano@cs.upc.edu"
+      }
+    ],
+    "description": "The European EdTech sector is playing an increasingly important role in driving forward digital transformation in Europe covering all education, training sectors. According to estimates, the sector saw a 15% increase on investments in 2021 and global investments are expected to reach over $87 billion in the upcoming decade. Notwithstanding, the sector is heavily fragmented across the European Union with many small players and few companies playing a global role. The European XR industry has evolved and maintained a leading role globally in software and content production. The use of XR can expand the range of activities through which students can gain hands-on experience, enabling them to go beyond abstract knowledge and supporting skills-based teaching and learning. Currently, developing XR applications for education require specialised knowledge and strong XR development skills. The process takes a lot of effort, time, and money. XR4ED concept is to: a) bring together EdTech and XR community and resources, overcoming fragmentation issues and encouraging the acceleration of innovation for personalised, innovative, efficient, and inclusive learning using XR; b) build a one-stop-shop and open marketplace for XR applications for learning, training and education that will act as a European reference platform on learning and teaching with XR. XR4ED will focus on the following sectors which must be further developed to make Europe a leader in cutting-edge technologies for education: • Boost the deployment of innovative XR applications for learning, training, and education. • Enable digital start-ups, SMEs, and industry active in the EdTech sector to further advance early prototypes, of digital learning solutions/apps using XR to a market-ready product. • Provide a single point of access to XR content, tools and solutions based on open standards. • Provide links to existing relevant initiatives and projects, including existing platforms, catalogues, or repositories.",
+    "image": "assets/projects/xr4ed-extended-reality-for-education.jpg",
+    "funding_institution": "European Union’s Horizon",
+    "start_date": "2023-01-01",
+    "end_date": "2025-12-31",
+    "webpage": "https://xr4ed.eu/",
+    "code": "HORIZON-101093159-XR4ED"
+  },
+  {
+    "id": "senda-simulation-and-visualization-of-erosion-and-nature-degradation-due-to-anthropogenic-activities",
+    "title": "SENDA: Simulation and visualization of Erosion and Nature Degradation due to Anthropogenic activities",
+    "contacts": [
+      {
+        "name": "Nuria Pelechano",
+        "email": "npelechano@cs.upc.edu"
+      },
+      {
+        "name": "Oscar Argudo",
+        "email": "oscar.argudo@upc.edu"
+      }
+    ],
+    "description": "During recent years there has been increased participation in outdoor activities. In general, more people are trying more activities on a more frequent basis. Unfortunately, the repeated transit of a large number of people in natural environments causes degradation and erosion on grass, dirt, or rock surfaces, direct damage to vegetation and fauna, plus uneducated behaviors such as littering. The goal of this project is to raise social awareness about the impact of recreational activities on the environment with interactive computer graphics and VR solutions. To do so we want to model the loop between human behavior and terrain degradation. The behavior and path choices of virtual agents will be driven by their personalities, capabilities, and terrain characteristics. This flux of people will impact the natural terrain and modify the established paths, which will then affect path choices made by future agents. The scientific contributions of this project will be in the form of novel algorithms and techniques related to: procedural modeling (automatic generation of hiking networks with semantic information and navigation meshes for complex uneven terrain), pathfinding and navigation in such terrains (pathfinding and route selection adapted to agents' abilities, planning of navigation in difficult sections), and simulation and rendering of anthropogenic degradation effects (trail erosion, litter, and other traces of passage). Our final results on the simulation and rendering of terrain degradation will be displayed both in Virtual Reality for a highly immersive experience, and as a web-based application to reach a larger audience.",
+    "image": "assets/projects/senda-simulation-and-visualization-of-erosion-and-nature-degradation-due-to-anthropogenic-activities.jpg",
+    "funding_institution": "Ministerio de ciéncia e innovación",
+    "start_date": "2022-12-01",
+    "end_date": "2024-12-01",
+    "webpage": "https://www.virvig.eu/senda/senda.html",
+    "code": "TED2021-129761B-I00"
+  },
+  {
+    "id": "vr4fire-virtual-reality-tool-for-population-and-emergency-services-training-in-case-of-fire-from-real-3d-volumes-and-cfd-simulations",
+    "title": "VR4Fire: Virtual Reality tool for population and emergency services training in case of fire, from real 3D Volumes and CFD simulations",
+    "contacts": [
+      {
+        "name": "Àlex Rios",
+        "email": "alex.rios.jerez@gmail.com"
+      },
+      {
+        "name": "Marta Fairén",
+        "email": "mfairen@cs.upc.edu"
+      }
+    ],
+    "description": null,
+    "image": "assets/projects/vr4fire-virtual-reality-tool-for-population-and-emergency-services-training-in-case-of-fire-from-real-3d-volumes-and-cfd-simulations.jpg",
+    "funding_institution": null,
+    "start_date": "2022-12-01",
+    "end_date": "2024-12-01",
+    "webpage": null,
+    "code": "TED-2021-130484B-100"
+  },
+  {
+    "id": "advanced-processing-for-3d-printing",
+    "title": "Advanced processing for 3d printing",
+    "contacts": [
+      {
+        "name": "Antoni Chica",
+        "email": "achica@cs.upc.edu"
+      }
+    ],
+    "description": "Geometry processing for high resolution models in 3d printers",
+    "image": "assets/projects/advanced-processing-for-3d-printing.jpg",
+    "funding_institution": "HP Inc.",
+    "start_date": "2015-01-01",
+    "end_date": "2024-04-30",
+    "webpage": null,
+    "code": "C-10294"
+  },
+  {
+    "id": "clipe-creating-lively-interactive-populated-environments",
+    "title": "CLIPE: Creating Lively Interactive Populated Environments",
+    "contacts": [
+      {
+        "name": "Nuria Pelechano",
+        "email": "npelechano@cs.upc.edu"
+      }
+    ],
+    "description": "The project addresses the core challenges of designing new techniques to create and control interactive virtual characters, benefiting from opportunities open by the wide availability of emergent technologies in the domains of human digitization and displays, as well as recent progresses of artificial intelligence. CLIPE aspires to train the new generation of researchers in these techniques, looking at the area holistically. The training and research programme is based on a multi-disciplinary and cross-sectoral philosophy, bringing together industry and academia experts and focusing on both technical and transversal skills development. The CLIPE network consists of universities/research centers and industrial partners.",
+    "image": "assets/projects/clipe-creating-lively-interactive-populated-environments.jpg",
+    "funding_institution": "Marie Skłodowska-Curie Actions (MSCA) Innovative Training Networks (ITN) Horizon 2020 (H2020-MSCA-ITN-2019)",
+    "start_date": "2020-03-01",
+    "end_date": "2024-03-01",
+    "webpage": "https://www.clipe-itn.eu/",
+    "code": "860768"
+  },
+  {
+    "id": "enhancement-of-heritage-experiences-the-middle-ages-digital-layered-models-of-architecture-and-mural-paintings-over-time",
+    "title": "Enhancement of Heritage Experiences: the Middle Ages. Digital Layered Models of Architecture and Mural Paintings over Time",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "The project aims to obtain virtual reconstructions of medieval artistic heritage - architecture with mural paintings- that are as close as possible to the original at different times, incorporating historical-artistic knowledge and the diachronic perspective of heritage, as an instrument for researchers, restorers and heritage curators and to improve the visitor's perceptions and experiences. In the digital models elaborated we intend to develop, as concrete objectives: 1. The understanding of architectural complexity, which is usually regularized geometrically. The collaboration of architects reveals the enormous interest of multidisciplinary dialogue in order to reach a real understanding of the construction of the building and its structural “anomalies\". 2. Solving chromatic problems. The different restoration criteria followed over the years have resulted in notable differences in the current chromatic perception, sometimes of different fragments of the same ensemble. The analysis of pigments, the arrangement of the pictorial layers and the successive restorations suffered, with the help of conservation and restoration technicians, will allow us to digitally specify the original colouring of the paintings. 3. Raise and propose the resolution of lighting problems. To date, trials have been carried out for the restitution of these problems in digital models based on the analysis of natural lighting, which we intend to improve. We also propose to deal with artificial lighting by chandeliers or oil lamps, which produced effects of painting vibration at the moment when, for liturgical reasons, the images “acted\". 4. To approach digitally the different perspectives of the medieval building and its paintings according to the categories of users. The laity did not have the same visual access as the clergy to the most decorated parts of the church; the iconographic programs did not have a universal addressee.",
+    "image": "assets/projects/enhancement-of-heritage-experiences-the-middle-ages-digital-layered-models-of-architecture-and-mural-paintings-over-time.png",
+    "funding_institution": "JPICH-Conservation, Protection and Use (EC) - PCI (Ministerio de Ciencia e Innovación)",
+    "start_date": "2020-09-01",
+    "end_date": "2023-08-31",
+    "webpage": null,
+    "code": "PCI2020-111979, JPICH-0127"
+  },
+  {
+    "id": "human-brain-project-specific-grant-agreement-3",
+    "title": "Human Brain Project Specific Grant Agreement 3",
+    "contacts": [],
+    "description": "Development and integration of mean-field models of cortical populations",
+    "image": "assets/projects/human-brain-project-specific-grant-agreement-3.jpg",
+    "funding_institution": "European Union's Horizon 2020 Framework Programme for Research and Innovation",
+    "start_date": "2020-04-01",
+    "end_date": "2023-03-31",
+    "webpage": null,
+    "code": "945539 - Sub-project T024-21 - CEoI 6 - BRICON"
+  },
+  {
+    "id": "3d4life-visualization-modeling-simulation-and-interaction-with-3d-models-applications-in-life-sciences-and-urban-environments",
+    "title": "3D4LIFE: Visualization, modeling, simulation and interaction with 3D models. Applications in life sciences and urban environments.",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      },
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      }
+    ],
+    "description": "In this project, we focus on dealing with large models stemming mainly from two fields: life sciences and urban modeling. In life sciences we address three distinct sources of information: medical imaging devices (in the context of specific diagnostic problems and for training), molecular simulations in pharmacology, and biomechanical data. Concerning urban modeling, we focus on the generation of plausible models (geometric models, simulation of crowd behaviors, and of the decay due to natural processes) from the raw data. The data-capture systems in use in these applications (for example digital cartography or LIDAR scanners) provide models with incomplete information, or with not good enough quality for the applications we envision in engineering, architecture or smart cities. The general objectives of this project center on visualization, modeling urban environments, interaction and simulation of natural phenomena and the behavior of people and crowds. Despite the transversal nature of the proposed work, the specific objectives are conceived to facilitate the development of 3D applications meant to improve the quality of life of the people, both in their health (support for clinical diagnosis, simulations in sports biomechanics, design of new digs) and in their immediate surroundings (crowd behavior simulation, sustainable urban design, cultural heritage, energy efficiency analysis).",
+    "image": "assets/projects/3d4life-visualization-modeling-simulation-and-interaction-with-3d-models-applications-in-life-sciences-and-urban-environments.jpg",
+    "funding_institution": "Spanish",
+    "start_date": "2018-01-01",
+    "end_date": "2021-12-31",
+    "webpage": "https://3d4life.virvig.es/",
+    "code": "TIN2017-88515-C2-1-R"
+  },
+  {
+    "id": "vr-engineering-final-degree-projects",
+    "title": "VR - Engineering Final Degree Projects",
+    "contacts": [
+      {
+        "name": "Antonio Susin",
+        "email": "toni.susin@upc.edu"
+      }
+    ],
+    "description": "Since 2016 and using the UPC - Virtual Reality Center facilities, we have been developing a series of projects involving Virtual Reality devices and Unity3D for developing different applications and serious games related to medicine, virtual interaction, etc. The final goal is to allow to the students how to interact with immersive 3D scenes.",
+    "image": "assets/projects/vr-engineering-final-degree-projects.jpg",
+    "funding_institution": null,
+    "start_date": "2016-01-01",
+    "end_date": "2020-12-31",
+    "webpage": "https://mat-web.upc.edu/people/toni.susin/projects2.xml",
+    "code": null
+  },
+  {
+    "id": "morpho-volumetric-measurement-tools-for-abdominal-colon-diagnose",
+    "title": "Morpho-Volumetric measurement tools for abdominal - colon diagnose",
+    "contacts": [
+      {
+        "name": "Eva Monclús",
+        "email": "emonclus@cs.upc.edu"
+      }
+    ],
+    "description": "The analysis of the morphology and content of the gut is necessary in order to understand metabolic and functional gut activity and for diagnostic purposes. In this project we are developing new techniques for the automatic segmentation of the unprepared colon from MRI and CT images and for the analysis of the colon content. The results of the assessment contribute to a better understanding of the functionality of the colon.",
+    "image": "assets/projects/morpho-volumetric-measurement-tools-for-abdominal-colon-diagnose.png",
+    "funding_institution": "Digestive System Research Unit, University Hospital Vall d’Hebron",
+    "start_date": "2010-11-01",
+    "end_date": "2020-11-01",
+    "webpage": null,
+    "code": "S-01241"
+  },
+  {
+    "id": "development-of-tools-for-the-inspection-and-manipulation-of-architectural-models-in-virtual-reality-systems",
+    "title": "Development of Tools for the Inspection and Manipulation of Architectural Models in Virtual Reality Systems",
+    "contacts": [
+      {
+        "name": "Nuria Pelechano",
+        "email": "npelechano@cs.upc.edu"
+      }
+    ],
+    "description": "With this Project we are developing tools to be able to move files generated with Rhinoceros SW directly into Unity 3D for visualization using immersive virtual reality (Oculus Rift and HTC VIVE). Our tools automatically process the geometry for rapid visualization, computes texture coordinates, applies the right normal maps, and handles illumination. All together our tool provides a high quality immersive visualization that offers the architects a whole new approach to building design. As part of this project, we are also developing 3DUI for real time interaction with the architectural models.",
+    "image": "assets/projects/development-of-tools-for-the-inspection-and-manipulation-of-architectural-models-in-virtual-reality-systems.jpg",
+    "funding_institution": "Fundació Junta Constructora del Temple Expiatori de la Sagrada Familia",
+    "start_date": "2016-06-29",
+    "end_date": "2020-06-01",
+    "webpage": null,
+    "code": "C-10614"
+  },
+  {
+    "id": "raytracing-of-grin-lenses-phase-2",
+    "title": "Raytracing of GRIN lenses (Phase 2)",
+    "contacts": [
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      },
+      {
+        "name": "Àlvar Vinacua",
+        "email": "alvar@cs.upc.edu"
+      }
+    ],
+    "description": "Design and implementation of a ray-tracing algorithm for analysis of variable refraction lenses.",
+    "image": "assets/projects/raytracing-of-grin-lenses-phase-2.jpg",
+    "funding_institution": null,
+    "start_date": "2019-03-01",
+    "end_date": "2020-04-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "virtual-reality-support-for-nursing-students",
+    "title": "Virtual Reality support for nursing students",
+    "contacts": [
+      {
+        "name": "Marta Fairén",
+        "email": "mfairen@cs.upc.edu"
+      }
+    ],
+    "description": "Develop some anatomical models and render them in immersive interactive environments (in-house VR environments) to complement the training in anatomy of students of the nursery school. The students inspect the anatomical models in 3D by using the ViRVIG equipment.",
+    "image": "assets/projects/virtual-reality-support-for-nursing-students.jpg",
+    "funding_institution": "School of Sant Joan de Déu",
+    "start_date": "2014-09-29",
+    "end_date": "2019-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "raytracing-of-grin-lenses-phase-1",
+    "title": "Raytracing of GRIN lenses (Phase 1)",
+    "contacts": [
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      },
+      {
+        "name": "Àlvar Vinacua",
+        "email": "alvar@cs.upc.edu"
+      }
+    ],
+    "description": "Design and implementation of module for evaluating properties of optical lenses.",
+    "image": "assets/projects/raytracing-of-grin-lenses-phase-1.jpg",
+    "funding_institution": null,
+    "start_date": "2018-07-01",
+    "end_date": "2019-02-28",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "generacio-de-models-urbans-per-a-simulacions",
+    "title": "Generació de models urbans per a simulacions",
+    "contacts": [],
+    "description": "Els models urbans són sistemes geomètrics complexos necessaris per a l’anàlisi en aplicacions de diversos dominis, com ara la simulació ambiental, la planificació urbana o la visualització de dades urbanes. La generació d’aquests models de forma robusta i precisa per diferents propòsits és un repte. L’ objectiu principal d’aquest projecte es el de desenvolupar nous mètodes per a la generació de models urbans adequats per a diversos tipus de simulació. Així mateix, els models de simulació existents seran adaptats pel ús eficient en models urbans complexos. Els àmbits de simulació en que es treballarà seran: avaluació energètica (anàlisis tèrmic i lumínica), modelat de degradació temporal de materials urbans i anàlisi d’evolució temporal dels canvis urbans. A banda de la robustesa dels models i la seva flexibilitat pels propòsits de simulació, també es buscarà desenvolupar noves interfícies d’usuari per a la generació i edició del models, donant a l’usuari la capacitat de modificar interactivament i de forma natural els components del paisatge urbà.",
+    "image": "assets/projects/generacio-de-models-urbans-per-a-simulacions.png",
+    "funding_institution": "Universitat de Girona",
+    "start_date": "2016-06-01",
+    "end_date": "2018-12-31",
+    "webpage": null,
+    "code": "MPCUdG2016/125"
+  },
+  {
+    "id": "cobertura-maxima-de-demandes-mitjancant-sensors-circulars",
+    "title": "Cobertura màxima de demandes mitjançant sensors circulars",
+    "contacts": [],
+    "description": null,
+    "image": "assets/projects/cobertura-maxima-de-demandes-mitjancant-sensors-circulars.jpg",
+    "funding_institution": "Universitat de Girona",
+    "start_date": "2016-01-01",
+    "end_date": "2018-12-31",
+    "webpage": null,
+    "code": "MPCUdG2016-031"
+  },
+  {
+    "id": "atapuerca-evolucion-videojuegos-educativos",
+    "title": "Atapuerca-evolución. Videojuegos educativos",
+    "contacts": [],
+    "description": "El proyecto “Atapuerca-evolución. Videojuegos educativos” pretende potenciar la simulación, entendida como estrategia educativa en un horizonte interdisciplinar que sintonice con el desarrollo tecno-científico. El objeto sobre el cual se ejemplifica la propuesta de gamificación es el yacimiento de Atapuerca, con sus diferentes variables espacio temporales, y teniendo en cuenta las certezas e incógnitas que sobre él inciden.",
+    "image": "assets/projects/atapuerca-evolucion-videojuegos-educativos.jpg",
+    "funding_institution": "Fundación BBVA de Ayudas a proyectos de Investigación.",
+    "start_date": "2016-10-01",
+    "end_date": "2018-09-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "assembly-process-of-the-headlight-of-a-car-seat",
+    "title": "Assembly process of the headlight of a car (SEAT)",
+    "contacts": [
+      {
+        "name": "Antonio Susin",
+        "email": "toni.susin@upc.edu"
+      }
+    ],
+    "description": "Simulation and validation of the assembly process of the headlight of a car in a virtual reality environment. Project linked to the Catedra Seat of the ETSEIB of the UPC.",
+    "image": "assets/projects/assembly-process-of-the-headlight-of-a-car-seat.jpg",
+    "funding_institution": null,
+    "start_date": "2017-03-01",
+    "end_date": "2018-02-14",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "gen3dlive-generation-simulation-and-interactive-visualization-of-3d-geometric-models-from-large-data-sets-with-applications-in-human-environments-and-life-quality-improvement",
+    "title": "GEN3DLIVE: Generation, simulation and interactive visualization of 3D geometric models from large data sets with applications in human environments and life quality improvement",
+    "contacts": [
+      {
+        "name": "Isabel Navazo",
+        "email": "isabel@cs.upc.edu"
+      },
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "This project addresses the problem of finding new mechanisms for the processing, presentation, manipulation and interaction with huge data sets, that maximize their ease of comprehension, and that do that in an efficient way. The project also deals with the development of new interaction techniques based on capturing user movements. Despite the cross-subject nature of the task we propose, our specific goals are oriented towards providing the required technologies to facilitate the development of 3D applications targeting life quality improvement, both in health aspects (medical diagnosis, drug development) and human environments (crowd simulation, urban planning, cultural heritage, energy analysis).",
+    "image": "assets/projects/gen3dlive-generation-simulation-and-interactive-visualization-of-3d-geometric-models-from-large-data-dd569a290c.jpg",
+    "funding_institution": "Spanish",
+    "start_date": "2015-01-01",
+    "end_date": "2017-12-31",
+    "webpage": "https://gen3dlife.virvig.es/",
+    "code": "TIN2014-52211-C2-1-R"
+  },
+  {
+    "id": "analysis-of-data-bases-related-with-sport-tactics",
+    "title": "Analysis of data bases related with sport tactics",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      },
+      {
+        "name": "Antonio Susin",
+        "email": "toni.susin@upc.edu"
+      }
+    ],
+    "description": "Recent research in team sports has focused on tactical and performance analysis using player positions (recovered through optical tracking), but other features have not yet been neither provided nor analyzed from a quantitative perspective. In this project we explored alternative player features through the analysis of data bases of soccer players.",
+    "image": "assets/projects/analysis-of-data-bases-related-with-sport-tactics.jpg",
+    "funding_institution": "Futbol Club Barcelona",
+    "start_date": "2017-02-01",
+    "end_date": "2017-07-31",
+    "webpage": null,
+    "code": "C-10891"
+  },
+  {
+    "id": "3d-virtual-reality-room-at-cimne-international-center-for-numerical-methods-in-engineering",
+    "title": "3D Virtual Reality Room at CIMNE (International Center for Numerical Methods in Engineering)",
+    "contacts": [
+      {
+        "name": "Marta Fairén",
+        "email": "mfairen@cs.upc.edu"
+      }
+    ],
+    "description": "The project includes the design of the virtual reality system, called 3D room, and different software. The calibration software to calibrate all the projection areas and the visualization software to visualize and interact with virtual models. The 3D room consist in a projection screen of 4.5 x 2.7 meters in which, through different zones of projection (tiling display), achieved a resolution of about 4500 x 2100 pixels.",
+    "image": "assets/projects/3d-virtual-reality-room-at-cimne-international-center-for-numerical-methods-in-engineering.jpg",
+    "funding_institution": null,
+    "start_date": "2016-04-01",
+    "end_date": "2016-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "tools-for-laser-texturing",
+    "title": "Tools for laser texturing",
+    "contacts": [
+      {
+        "name": "Antoni Chica",
+        "email": "achica@cs.upc.edu"
+      }
+    ],
+    "description": "Design and implementation of geometry processing algorithms for the laser texturing field.",
+    "image": "assets/projects/tools-for-laser-texturing.jpg",
+    "funding_institution": "netDiffusion",
+    "start_date": "2015-05-17",
+    "end_date": "2016-07-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "virtual-displays",
+    "title": "Virtual Displays",
+    "contacts": [
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      }
+    ],
+    "description": "Development of virtual demonstrators for the physically-based rendering of people.",
+    "image": "assets/projects/virtual-displays.jpg",
+    "funding_institution": "INDO",
+    "start_date": "2014-09-01",
+    "end_date": "2016-01-01",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "reconstruction-of-huge-digital-market-models",
+    "title": "Reconstruction of Huge Digital Market Models",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      },
+      {
+        "name": "Pere Brunet",
+        "email": "pere@cs.upc.edu"
+      }
+    ],
+    "description": "The project goal is the acquisition, reconstruction and interactive visualization of huge digital models. It started with the reconstruction of the digital model of the Sant Antoni Market in Barcelona. Scan data from 31 time-of-flight different captures were processed into a registered point cloud of 3500 millions of data points. Panoramas were automatically generated for interactive data inspection. Ambient occlusion was included to enhance visual representations.",
+    "image": "assets/projects/reconstruction-of-huge-digital-market-models.jpg",
+    "funding_institution": "Esteyco",
+    "start_date": "2014-09-01",
+    "end_date": "2015-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "development-of-visual-analysis-systems",
+    "title": "Development of Visual Analysis Systems",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "The project aimed at developing systems for analysing eye-head coordination of people in daily tasks, through the use of visual stimuli and tracking systems.",
+    "image": "assets/projects/development-of-visual-analysis-systems.jpg",
+    "funding_institution": "INDO OPTICAL",
+    "start_date": "2014-06-12",
+    "end_date": "2015-10-15",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "living-lab-virtual-libraries",
+    "title": "Living Lab - Virtual Libraries",
+    "contacts": [
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      }
+    ],
+    "description": "Design and implementation of a system to provide augmented documents.",
+    "image": "assets/projects/living-lab-virtual-libraries.jpg",
+    "funding_institution": "ITESOFT",
+    "start_date": "2014-02-01",
+    "end_date": "2015-07-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "samva-simulation-advanced-modeling-and-interactive-visual-analysis-of-large-data-sets",
+    "title": "SAMVA:Simulation, Advanced Modeling and Interactive Visual Analysis of Large Data Sets",
+    "contacts": [
+      {
+        "name": "Isabel Navazo",
+        "email": "isabel@cs.upc.edu"
+      },
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "This project is the framework for the research of the ViRVIG group in 2014. It addresses the problem of finding new mechanisms for the presentation, manipulation and interaction with huge data-sets, that maximize their comprehension, and that do it an efficient way, both is terms of computing effort and of resources needed.",
+    "image": "assets/projects/samva-simulation-advanced-modeling-and-interactive-visual-analysis-of-large-data-sets.jpg",
+    "funding_institution": "Spanish",
+    "start_date": "2014-01-01",
+    "end_date": "2015-06-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "evreca-enhanced-virtual-reality-for-cutting-edge-applications",
+    "title": "EVReCA: Enhanced Virtual Reality for Cutting-Edge Applications",
+    "contacts": [
+      {
+        "name": "Isabel Navazo",
+        "email": "isabel@cs.upc.edu"
+      }
+    ],
+    "description": "This project is the framework of the ViRVIG research. It is concerned with improving the efficiency so that higher quality renderings become available for complex models at the demanding speed needed by stereo applications and mobile architectures, with enhanced, specially tailored interaction mechanisms, and with obtaining improved geometric data mining algorithms to facilitate operating on these datasets. Although these problems are of a fundamental nature, we find it advisable to focus on two sufficiently distinct and complementary applications to both serve as guides and concept-demonstrators: the modelling of large urban environments and the handling of volumetric models in medicine.",
+    "image": "assets/projects/evreca-enhanced-virtual-reality-for-cutting-edge-applications.jpg",
+    "funding_institution": "Spanish \"Ministerio de Economia y Competitidad\", TIN2010-20590-C02",
+    "start_date": "2011-01-01",
+    "end_date": "2014-07-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "detection-analysis-and-modeling-of-movements-of-athletes",
+    "title": "Detection, analysis and modeling of movements of athletes",
+    "contacts": [
+      {
+        "name": "Nuria Pelechano",
+        "email": "npelechano@cs.upc.edu"
+      }
+    ],
+    "description": null,
+    "image": "assets/projects/detection-analysis-and-modeling-of-movements-of-athletes.jpg",
+    "funding_institution": null,
+    "start_date": "2013-12-02",
+    "end_date": "2014-06-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "lipad-project-light-based-parametric-design",
+    "title": "LiPaD project: Light-Based Parametric Design",
+    "contacts": [],
+    "description": "Main objective : achieve a performative design tool Means : Inverse naturel lighting model, Visualisation method Design framework",
+    "image": "assets/projects/lipad-project-light-based-parametric-design.jpg",
+    "funding_institution": "ViRVIG",
+    "start_date": "2011-07-01",
+    "end_date": "2014-02-28",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "modeling-and-appearance-estimation-of-3d-objects",
+    "title": "Modeling and appearance estimation of 3D objects",
+    "contacts": [
+      {
+        "name": "Carles Bosch",
+        "email": "carles.bosch@uvic.cat"
+      }
+    ],
+    "description": "This project aims to model the appearance of complex materials under different viewpoints , based on information from the laws of physics , the estimate from images , as well as interaction with a non-specialist user. The aim is to define a new way of modeling the appearance that is hybrid between the three options , and study when an option is best or a combination of several options.",
+    "image": "assets/projects/modeling-and-appearance-estimation-of-3d-objects.png",
+    "funding_institution": "CTP-AGAUR (Comunidad de Trabajo de los Pireneos)",
+    "start_date": "2012-01-01",
+    "end_date": "2013-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "advice-and-collaboration-in-the-development-of-augmented-reality-software-for-mobile-devices",
+    "title": "Advice and collaboration in the development of Augmented Reality software for mobile devices",
+    "contacts": [
+      {
+        "name": "Pere-Pau Vázquez",
+        "email": "ppau@cs.upc.edu"
+      }
+    ],
+    "description": "Advise on the development of an application for viewing large files (approximately 250K polygons ) of construction structures in an augmented reality environment. Implementation of the Viewer.",
+    "image": "assets/projects/advice-and-collaboration-in-the-development-of-augmented-reality-software-for-mobile-devices.png",
+    "funding_institution": "ASCAMM Technology Center",
+    "start_date": "2013-06-30",
+    "end_date": "2013-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "urbanevolution-exploration-of-urban-landscapes-over-time",
+    "title": "UrbanEvolution: exploration of urban landscapes over time",
+    "contacts": [],
+    "description": "The understanding and simulation of the temporal evolution of urban environments is crucial not only for historical studies, but also for urban planning in modern cities. This proposal presents urbanEvolution, a project that aims to develop the first techniques ever for a user-controlled, automatic study of the evolution of buildings and whole cities over time. This study is expected to be done through the definition of urban states, which are procedural snapshots of the structure of an architectural or urban element; and operators, which produce discrete evolutions in these states into new ones reflecting the changes over time.",
+    "image": "assets/projects/urbanevolution-exploration-of-urban-landscapes-over-time.jpg",
+    "funding_institution": "Ministerio Español de Ciencia e Innovación",
+    "start_date": "2012-12-14",
+    "end_date": "2013-12-13",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "eurographics-2013-conference",
+    "title": "Eurographics 2013 Conference",
+    "contacts": [],
+    "description": "Ajuts per a l’organització de congressos, simposis, cicles de conferències, seminaris o reunions científiques de caràcter internacional que s’organitzin i celebrin a Catalunya: Eurographics 2013 (http://eg2013.udg.edu/)",
+    "image": "assets/projects/eurographics-2013-conference.jpg",
+    "funding_institution": "AGAUR. Agència de Gestió d’Ajuts Universitaris i de Recerca. Generalitat de Catalunya",
+    "start_date": "2013-01-01",
+    "end_date": "2013-11-30",
+    "webpage": "http://eg2013.udg.edu/",
+    "code": null
+  },
+  {
+    "id": "high-performance-multi-projector-cave-system",
+    "title": "High-Performance Multi-Projector CAVE System",
+    "contacts": [
+      {
+        "name": "Pere Brunet",
+        "email": "pere@cs.upc.edu"
+      }
+    ],
+    "description": "The goal of this project has been the design and construction of a novel, four wall multi- projector CAVE VR system which is powered by 40 off-the-shelf projectors controlled by 12 PCs. It operates in passive stereo, providing high brightness at 2000 x 2000 pixel resolution on each of the 4 walls. We have achieved high resolution while significantly reducing the cost and increasing versatility: the system works with any mix of a wide range of projector models that can be substituted at any moment for more modern or cheaper ones. The uniformity of the final image is achieved using a specially designed self-calibration software which adapts each of the 40 projectors and guarantees concordance and continuity. The system includes a gesture-based interaction approach based on a clever combination of skeletal data from multiple Kinect sensors. Interaction is intuitive and cableless.",
+    "image": "assets/projects/high-performance-multi-projector-cave-system.jpg",
+    "funding_institution": "ViRVIG",
+    "start_date": "2009-02-01",
+    "end_date": "2013-04-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "virtual-reconstruction-and-presentation-of-the-entrance-of-the-ripoll-monastery",
+    "title": "Virtual Reconstruction and Presentation of the Entrance of the Ripoll Monastery",
+    "contacts": [
+      {
+        "name": "Pere Brunet",
+        "email": "pere@cs.upc.edu"
+      }
+    ],
+    "description": "The project involved a high-fidelity acquisition of the geometry and appearance of the Romanic entrance of the Ripoll Monastery in Catalonia, its geometry processing and repair, the creation of a multiresolution digital 3D model involving a precise mesh of 173 millions of triangles, and a set of user-friendly visualization tools. The project resulted on a fruitful cooperation among the Museu Nacional d'Art de Catalunya (MNAC), the Polytechnical University of Catalonia (UPC) and the Visual Computing Laboratory of ISTI-CNR in Pisa. The result was open to the public in the MNAC exhibition named \"The Romanic Art and the Mediterraneum: Catalonia, Toulouse and Pisa\" from February to May 2008, and is now visible as part of its permanent exhibition. Visitors to the exhibition interact with the virtual reproduction in an immersive VR kiosks. Using a touch-screen and a back-projection display screen with passive stereo, visitors can simply navigate and zoom-in in different parts of the entrance, or they can get further information just by touching different \"hotspots\" that make 3D information boards appear in front of important components of the façade.",
+    "image": "assets/projects/virtual-reconstruction-and-presentation-of-the-entrance-of-the-ripoll-monastery.jpg",
+    "funding_institution": "MNAC. Museo Nacional d'Art de Catalunya",
+    "start_date": "2007-11-01",
+    "end_date": "2012-07-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "hdri-the-digital-capture-storage-transmission-and-display-of-real-world-lighting",
+    "title": "HDRi: The digital capture, storage transmission and display of real-world lighting.",
+    "contacts": [],
+    "description": "Widespread uptake of HDR requires common interface standards. Currently they do not exist. There are isolated pockets of high-quality HDR endeavour across Europe, but not a co-ordinated approach. 2009 saw the appearance the first commercial HDR display and the world’s first HDR video camera. These European-led developments reinforce the timeliness of developing HDR standards and the special position Europe is in to lead the rapid acceleration of future HDR developments and market penetration. This COST Action (HDRi) assembles leading academic and industrial researchers and practitioners to propose a set of standards for the complete HDR pipeline and establish Europe firmly as the world leader in HDR.",
+    "image": "assets/projects/hdri-the-digital-capture-storage-transmission-and-display-of-real-world-lighting.jpg",
+    "funding_institution": "Cost Action IC1005",
+    "start_date": "2011-03-14",
+    "end_date": "2012-02-09",
+    "webpage": "http://www.cost.eu/domains_actions/ict/Actions/IC1005",
+    "code": null
+  },
+  {
+    "id": "low-cost-efficient-and-accurate-acquisition-of-human-skin-appearance-for-relighting-and-rendering",
+    "title": "Low-cost, efficient and accurate acquisition of human skin appearance for relighting and rendering",
+    "contacts": [],
+    "description": "This project has focused on developing methods where only a single photograph is required to extract the values of human skin reflectance. Two methods have been developed for this purpose, a skin-specific method and a more general approach dealing with all kinds of translucent materials. We have also investigated the automatic mapping of facial textures onto 3D models, which is a major challenge when modeling virtual characters.",
+    "image": "assets/projects/low-cost-efficient-and-accurate-acquisition-of-human-skin-appearance-for-relighting-and-rendering.png",
+    "funding_institution": "CTP-AGAUR (Comunidad de Trabajo de los Pireneos)",
+    "start_date": "2010-01-01",
+    "end_date": "2011-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "high-dynamic-range-imaging-for-uncontrollable-environments",
+    "title": "High-Dynamic Range imaging for uncontrollable environments.",
+    "contacts": [],
+    "description": "We propose to explore a new approach to create high-dynamic range content with physically accurate radiance values from multi-exposed photographs. Accurate radiance values haven’t been so far ensured by previous methods but are crucial for research in illumination for mixed reality, image processing and photogrammetry. Our aim is to address a wide range of cameras and scene contents, including uncontrollable environments, such as exterior scenes with pedestrians or vegetation subject to wind. This involves solving ill-posed mathematical problems that are extremely difficult to solve, on uncontrollable data. Solutions should be as automatic and as free from user intervention as possible.",
+    "image": "assets/projects/high-dynamic-range-imaging-for-uncontrollable-environments.png",
+    "funding_institution": "Ministerio Español de Educación y Ciencia.",
+    "start_date": "2009-04-01",
+    "end_date": "2011-03-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "baip-2020",
+    "title": "BAIP 2020",
+    "contacts": [
+      {
+        "name": "Àlvar Vinacua",
+        "email": "alvar@cs.upc.edu"
+      }
+    ],
+    "description": "BAIP 2020 is the first Cenit Project approved by the CDTI in the naval and maritime sector. ViRVIG was involved in the development of High-end graphics software for the collaborative design of very large models.",
+    "image": "assets/projects/baip-2020.png",
+    "funding_institution": "CDTI, Spanish",
+    "start_date": "2007-07-01",
+    "end_date": "2010-12-31",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "movie3d-modeling-visualization-animation-and-analysis-of-highly-complex-3d-environments-in-interactive-virtual-reality-systems",
+    "title": "MoViE3D. Modeling, visualization, animation and analysis of highly complex 3D environments in interactive virtual reality systems.",
+    "contacts": [
+      {
+        "name": "Isabel Navazo",
+        "email": "isabel@cs.upc.edu"
+      }
+    ],
+    "description": "In aiming to extend the virtual reality experience to ever larger models and scenes, innovative, efficient and scalable solutions are required in many fronts to make it possible. This project intends to push the frontiers of this technology in ways that will allow users to experiment virtual immersion in scenes of previously unmanageable complexity, whilst providing to bring the experience to more mundane environments and budgets. We propose to work on several fronts: real time rendering, physical-based animation, crowds simulation, development of new and flexible VR devices and representation and analysis of terrains. we intend to evaluate the results by developing demonstration packages in the areas of medical and cultural heritage applications.",
+    "image": "assets/projects/movie3d-modeling-visualization-animation-and-analysis-of-highly-complex-3d-environments-in-interactive-virtual-reality-systems.jpg",
+    "funding_institution": "Ministerio Español de Educación y Ciencia. TIN 2007-67982-C02.",
+    "start_date": "2007-10-01",
+    "end_date": "2010-10-31",
+    "webpage": null,
+    "code": "TIN2007-67982-C02-01"
+  },
+  {
+    "id": "vls-lrc-virtual-landscapes-languedoc-roussillon-catalonia",
+    "title": "VLS-LRC (Virtual Landscapes Languedoc Roussillon Catalonia)",
+    "contacts": [],
+    "description": "VLS-LRC is a thematic network to reinforce regional collaborative projects in virtual landscape and ecosystem visualisation",
+    "image": "assets/projects/vls-lrc-virtual-landscapes-languedoc-roussillon-catalonia.jpg",
+    "funding_institution": "Agropolis Fondation,Avenue Agropolis 34394 Montpellier Cedex 5 - France",
+    "start_date": "2009-09-01",
+    "end_date": "2010-08-30",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "virtual-paleontology-towards-research-and-interactive-dissemination",
+    "title": "Virtual Paleontology: towards research and interactive dissemination",
+    "contacts": [
+      {
+        "name": "Marta Fairén",
+        "email": "mfairen@cs.upc.edu"
+      }
+    ],
+    "description": "Development of a Virtual Reality application to visualize and study the fossils of the Pierolapithecus skeleton. The project includes: the 3D acquisition of the real bones, in high and low resolution; the construction of the complete model and hand; and the interactive application to inspect the model through a tactile screen and adding also textual additional information and different comparisons with other hominids.",
+    "image": "assets/projects/virtual-paleontology-towards-research-and-interactive-dissemination.jpg",
+    "funding_institution": "AGAUR, Agència de Gestió d'Ajuts Universitaris i de Recerca. Generalitat de Catalunya.",
+    "start_date": "2009-06-22",
+    "end_date": "2010-06-22",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "immersence-immersive-multi-modal-interactive-presence",
+    "title": "IMMERSENCE (Immersive Multi-Modal Interactive Presence)",
+    "contacts": [],
+    "description": "Towards a Touching Presence: High-Definition Haptic Systems. This is a EU FET Funded Integrated Project with 9 partners. It's over goal is to enhance multi-modal interaction within virtual and mixed reality, particularly concentrating on haptics. At UPC our goal is a characterisation of interaction from the point of view of presence - for example, between people interacting together in a haptic mode, or haptic manipulation of objects.",
+    "image": "assets/projects/immersence-immersive-multi-modal-interactive-presence.jpg",
+    "funding_institution": null,
+    "start_date": "2006-01-01",
+    "end_date": "2010-01-01",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "presenccia",
+    "title": "PRESENCCIA",
+    "contacts": [],
+    "description": "Presence: Research Encompassing Sensory Enhancement, Neuroscience, Cerebral-Computer Interfaces and Applications This Integrated Project will undertake a Research Programme that has as its major goal the delivery of presence in wide area distributed mixed reality environments. The environment will include a physical installation that people can visit both physically and virtually. The installation will be the embodiment of an artificial intelligent entity that understands and learns from its interaction with people. People who inhabit the installation will at any one time be physically there, virtually there but remote, or entirely virtual beings with their own goals and capabilities for interacting with one another and with embodiments of real people. Specific subclasses of the installation will be used for the construction of a number of application scenarios, such as a persistent virtual community that embodies the project itself. The core methodology will be to achieve this through the identification, understanding and exploitation of cerebral mechanisms for presence in conjunction with advances in the underlying technology for mixed reality display and interaction, with special attention to the interaction between people, and also between people and virtual people. Such cerebral mechanisms will be the basis for a core aspect of the IP which is the exploitation of brain-computer interfaces. Processes within the environments adapt and correlate with the behaviour and state of people, and in addition people are able to effect changes within the environment through thought as well as through motor actions.",
+    "image": "assets/projects/presenccia.jpg",
+    "funding_institution": null,
+    "start_date": "2006-01-01",
+    "end_date": "2010-01-01",
+    "webpage": "http://www.presenccia.org/",
+    "code": null
+  },
+  {
+    "id": "tarraco-virtual-virtual-reconstruction-of-the-ancient-roman-city-of-tarraco",
+    "title": "Tarraco Virtual (Virtual reconstruction of the ancient roman city of Tarraco)",
+    "contacts": [
+      {
+        "name": "Carlos Andújar",
+        "email": "andujar@cs.upc.edu"
+      }
+    ],
+    "description": "This project aims at building a virtual reconstruction of the ancient roman city of Tarraco as it was 2000 years ago. Project founded by the Spanish government. Cooperation with Recol Networks and Digivision.",
+    "image": "assets/projects/tarraco-virtual-virtual-reconstruction-of-the-ancient-roman-city-of-tarraco.jpg",
+    "funding_institution": null,
+    "start_date": "2008-02-01",
+    "end_date": "2009-02-01",
+    "webpage": null,
+    "code": null
+  },
+  {
+    "id": "virtual-heritage-high-quality-3d-acquisition-and-presentation",
+    "title": "Virtual Heritage: High-Quality 3D Acquisition and Presentation",
+    "contacts": [
+      {
+        "name": "Pere Brunet",
+        "email": "pere@cs.upc.edu"
+      }
+    ],
+    "description": "The ViHAP3D Project aimed at preserving, presenting, accessing, and promoting cultural heritage by means of interactive, high-quality 3D graphics. The project aimed at the development of new tools in the problem areas of (a) 3D scanning for the acquisition of accurate and visually rich 3D models, (b) post-processing, data representation, and efficient rendering for the detailed interactive display and inspection of such models even on low cost platforms, and (c)virtual heritage tools for the presentation and navigation in high-quality digital model collection.",
+    "image": "assets/projects/virtual-heritage-high-quality-3d-acquisition-and-presentation.png",
+    "funding_institution": "EU, IST Project, IST-2001-32641",
+    "start_date": "2002-02-01",
+    "end_date": "2005-01-31",
+    "webpage": "www.vihap3d.org",
+    "code": null
+  }
+]

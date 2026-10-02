@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Carlos Andújar",
+    "status": "current",
+    "role": "professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~virtual/home/index.html",
+      "email": "andujar@cs.upc.edu",
+      "phone": "+34 93 413 79 64"
+    },
+    "photo": "assets/people/carlos-andujar.jpg"
+  },
+  {
+    "name": "Oscar Argudo",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "oscar.argudo@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/oscar-argudo.jpg"
+  },
+  {
+    "name": "Alejandro Beacco",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.lsi.upc.edu/~abeacco/",
+      "email": "abeacco@cs.upc.edu",
+      "phone": "+34 93 401 72 96"
+    },
+    "photo": "assets/people/alejandro-beacco.jpg"
+  },
+  {
+    "name": "Pere Brunet",
+    "status": "current",
+    "role": "professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~pere/",
+      "email": "pere@cs.upc.edu",
+      "phone": "+34 93 413 79 59"
+    },
+    "photo": "assets/people/pere-brunet.jpg"
+  },
+  {
+    "name": "Antoni Chica",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.lsi.upc.edu/~achica/",
+      "email": "achica@cs.upc.edu",
+      "phone": "+34 93 413 78 82"
+    },
+    "photo": "assets/people/antoni-chica.png"
+  },
+  {
+    "name": "Marta Fairén",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~mfairen/",
+      "email": "mfairen@cs.upc.edu",
+      "phone": "+34 93 413 79 63"
+    },
+    "photo": "assets/people/marta-fairen.jpg"
+  },
+  {
+    "name": "Jaime Gallego",
+    "status": "current",
+    "role": "assistant_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "jaume.gallego@upc.edu",
+      "phone": null
+    },
+    "photo": null
+  },
+  {
+    "name": "Robert Joan Arinyo",
+    "status": "current",
+    "role": "professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "robert@cs.upc.edu",
+      "phone": "+34 93 401 66 69"
+    },
+    "photo": "assets/people/robert-joan-arinyo.jpg"
+  },
+  {
+    "name": "Imanol Munoz-Pandiella",
+    "status": "current",
+    "role": "assistant_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "https://www.cs.upc.edu/~imanolm/",
+      "email": "imanolm@cs.upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/imanol-munoz-pandiella.jpg"
+  },
+  {
+    "name": "Isabel Navazo",
+    "status": "current",
+    "role": "professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~isabel/",
+      "email": "isabel@cs.upc.edu",
+      "phone": "+34 93 413 79 61"
+    },
+    "photo": "assets/people/isabel-navazo.jpg"
+  },
+  {
+    "name": "Nuria Pelechano",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.lsi.upc.edu/~npelechano/",
+      "email": "npelechano@cs.upc.edu",
+      "phone": "+34 93 413 78 58"
+    },
+    "photo": "assets/people/nuria-pelechano.jpg"
+  },
+  {
+    "name": "Àlex Rios",
+    "status": "current",
+    "role": "assistant_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": "alex.rios.jerez@gmail.com",
+      "phone": "+34 93 413 78 39"
+    },
+    "photo": "assets/people/alex-rios.jpg"
+  },
+  {
+    "name": "Antonio Susin",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "https://mat-web.upc.edu/people/toni.susin/",
+      "email": "toni.susin@upc.edu",
+      "phone": "+34 93 401 77 81"
+    },
+    "photo": "assets/people/antonio-susin.jpg"
+  },
+  {
+    "name": "Àlvar Vinacua",
+    "status": "current",
+    "role": "associate_professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~alvar/",
+      "email": "alvar@cs.upc.edu",
+      "phone": "+34 93 413 79 62"
+    },
+    "photo": "assets/people/alvar-vinacua.jpg"
+  },
+  {
+    "name": "Pere-Pau Vázquez",
+    "status": "current",
+    "role": "professor",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.cs.upc.edu/~ppau/",
+      "email": "ppau@cs.upc.edu",
+      "phone": "+34 93 413 77 90"
+    },
+    "photo": "assets/people/pere-pau-vazquez.jpg"
+  },
+  {
+    "name": "Carles Bosch",
+    "status": "current",
+    "role": "collaborator",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": "http://imae.udg.edu/~cbosch/",
+      "email": "carles.bosch@uvic.cat",
+      "phone": null
+    },
+    "photo": "assets/people/carles-bosch.png"
+  },
+  {
+    "name": "Marc Comino",
+    "status": "current",
+    "role": "collaborator",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": "marccomino@gmail.com",
+      "phone": null
+    },
+    "photo": "assets/people/marc-comino.jpg"
+  },
+  {
+    "name": "Alexandra Cortez",
+    "status": "current",
+    "role": "collaborator",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": null,
+      "phone": null
+    },
+    "photo": null
+  },
+  {
+    "name": "Jose Díaz",
+    "status": "current",
+    "role": "collaborator",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.lsi.upc.edu/~jdiriberri/",
+      "email": "jdiriberri@cs.upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/jose-diaz.jpg"
+  },
+  {
+    "name": "Eva Monclús",
+    "status": "current",
+    "role": "researcher",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "emonclus@cs.upc.edu",
+      "phone": "+34 93 401 17 00"
+    },
+    "photo": "assets/people/eva-monclus.jpg"
+  },
+  {
+    "name": "Jordi Moyés",
+    "status": "current",
+    "role": "technical_staff",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": "http://www.lsi.upc.edu/~jmoyes/",
+      "email": "jordi.moyes@upc.edu",
+      "phone": "+34 93 401 57 00"
+    },
+    "photo": "assets/people/jordi-moyes.jpg"
+  },
+  {
+    "name": "Lydia Cadevall",
+    "status": "current",
+    "role": "master_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "lydia.cadevall@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/lydia-cadevall.jpg"
+  },
+  {
+    "name": "Isaac Calvís",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": null,
+      "phone": null
+    },
+    "photo": "assets/people/isaac-calvis.jpg"
+  },
+  {
+    "name": "Luis Carranza",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "luis.carranza@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/luis-carranza.jpg"
+  },
+  {
+    "name": "Zhongxiong Cheng",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "zhongxiong.cheng@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/zhongxiong-cheng.jpg"
+  },
+  {
+    "name": "Chunjie Wang",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "chunjie.wang@estudiantat.upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/chunjie-wang.jpg"
+  },
+  {
+    "name": "Reiya Itatani",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "reiya.itatani@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/reiya-itatani.jpg"
+  },
+  {
+    "name": "Mohammadreza Javadiha",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "mohammadreza.javadiha@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/mohammadreza-javadiha.jpg"
+  },
+  {
+    "name": "Mariona Baizhi Cos",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "mariona.cos@upc.edu",
+      "phone": null
+    },
+    "photo": null
+  },
+  {
+    "name": "Beatriz Martinez",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "beatriz.martinez@citm.upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/beatriz-martinez.jpg"
+  },
+  {
+    "name": "Anna Pagès",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": true,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": "anna.pages@udg.edu",
+      "phone": null
+    },
+    "photo": "assets/people/anna-pages.jpg"
+  },
+  {
+    "name": "Eduard Pujol",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": false
+    },
+    "contact": {
+      "webpage": null,
+      "email": "eduard.pujol.puig@gmail.com",
+      "phone": null
+    },
+    "photo": "assets/people/eduard-pujol.jpg"
+  },
+  {
+    "name": "Tairan Yin",
+    "status": "current",
+    "role": "phd_student",
+    "affiliations": {
+      "udg": false,
+      "upc": true
+    },
+    "contact": {
+      "webpage": null,
+      "email": "tairan.yin@upc.edu",
+      "phone": null
+    },
+    "photo": "assets/people/tairan-yin.jpg"
+  }
+]
