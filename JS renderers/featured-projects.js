@@ -9,8 +9,11 @@
   "use strict";
 
   var REPOSITORY_BASE_URL =
-    "https://upc-virvig.github.io/virvig-web-docs-public/";
-  var PROJECTS_URL = REPOSITORY_BASE_URL + "data/projects.json";
+    "https://cdn.jsdelivr.net/gh/UPC-ViRVIG/virvig-web-docs-public@main/";
+  var runtimeUrl = window.ViRVIG_PUBLIC_URL || function (path) {
+    return REPOSITORY_BASE_URL + String(path).replace(/^\/+/, "");
+  };
+  var PROJECTS_URL = runtimeUrl("data/projects.json");
   var CONTAINER_SELECTOR =
     "#virvig-featured-projects, [data-virvig-featured-projects]";
   var DESCRIPTION_PREVIEW_LENGTH = 360;
@@ -38,7 +41,7 @@
   }
 
   function assetUrl(path) {
-    return REPOSITORY_BASE_URL + String(path).replace(/^\/+/, "");
+    return runtimeUrl(path);
   }
 
   function appendText(parent, tagName, className, value) {

@@ -9,8 +9,11 @@
   "use strict";
 
   var REPOSITORY_BASE_URL =
-    "https://upc-virvig.github.io/virvig-web-docs-public/";
-  var PEOPLE_URL = REPOSITORY_BASE_URL + "data/people.json";
+    "https://cdn.jsdelivr.net/gh/UPC-ViRVIG/virvig-web-docs-public@main/";
+  var runtimeUrl = window.ViRVIG_PUBLIC_URL || function (path) {
+    return REPOSITORY_BASE_URL + String(path).replace(/^\/+/, "");
+  };
+  var PEOPLE_URL = runtimeUrl("data/people.json");
   var CONTAINER_SELECTOR = "#virvig-people, [data-virvig-people]";
   var GROUPS = [
     {
@@ -46,7 +49,7 @@
   };
 
   function assetUrl(path) {
-    return REPOSITORY_BASE_URL + String(path).replace(/^\/+/, "");
+    return runtimeUrl(path);
   }
 
   function appendText(parent, tagName, className, value) {
