@@ -14,6 +14,7 @@
     return REPOSITORY_BASE_URL + String(path).replace(/^\/+/, "");
   };
   var PROJECTS_URL = runtimeUrl("data/projects.json");
+  var PUBLIC_JSON_FORMAT = "virvig-base64-utf8-v1";
   var CONTAINER_SELECTOR =
     "#virvig-featured-projects, [data-virvig-featured-projects]";
   var DESCRIPTION_PREVIEW_LENGTH = 360;
@@ -42,6 +43,28 @@
 
   function assetUrl(path) {
     return runtimeUrl(path);
+  }
+
+  function decodePublicData(data) {
+    if (Array.isArray(data)) {
+      return data;
+    }
+    if (!data || data.format !== PUBLIC_JSON_FORMAT || typeof data.payload !== "string") {
+      throw new Error("Unsupported public data format.");
+    }
+    try {
+      var binary = window.atob(data.payload);
+      var bytes = Uint8Array.from(binary, function (character) {
+        return character.charCodeAt(0);
+      });
+      var decoded = JSON.parse(new TextDecoder("utf-8", { fatal: true }).decode(bytes));
+      if (!Array.isArray(decoded)) {
+        throw new Error("Decoded public data is not an array.");
+      }
+      return decoded;
+    } catch (error) {
+      throw new Error("Unable to decode public data.");
+    }
   }
 
   function appendText(parent, tagName, className, value) {
@@ -188,10 +211,8 @@
       return;
     }
 
-    loadProjects().then(function (projects) {
-      if (!Array.isArray(projects)) {
-        throw new Error("Projects data is not an array.");
-      }
+    loadProjects().then(function (data) {
+      var projects = decodePublicData(data);
       containers.forEach(function (container) {
         render(container, projects);
       });
